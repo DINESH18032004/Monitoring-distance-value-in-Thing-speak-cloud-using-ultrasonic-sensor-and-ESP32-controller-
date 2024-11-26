@@ -1,6 +1,6 @@
 ## NAME : DINESH KUMAR R
 ## REG NO : 212222110010
-# EX-06 Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EX 06 : Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
 # AIM:
@@ -95,7 +95,6 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
 ![image](https://github.com/user-attachments/assets/c7746b27-dca6-4b9f-9e71-b24f3e57b6c8)
 
- 
 # PROGRAM:
 ```
 #include "ThingSpeak.h"
@@ -153,10 +152,8 @@ void loop()
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/3c28dca3-0282-44b8-914b-fd69de61b1b3)
 
-
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/b09663fa-9cd0-48ef-abee-b90147b1ab50)
 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
-
